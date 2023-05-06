@@ -1,0 +1,40 @@
+.imagen1{ 
+    width: 450px;
+    height: 450px;
+    place-content: center;
+}
+.img11{
+    text-align: center;
+}
+.nombre1{
+    margin: 50px;
+    font-family: 'segoe script' ;
+    text-align: center;
+font-size: 40px;
+color: rgb(255, 255, 255);
+}
+.tex1{
+
+    margin: 60px;
+    font-family:'times new roman' ;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+.fondo1{
+    background-color: rgb(128, 128, 128);
+}
+
+.tex3{
+    margin: 20px;
+    font-size: 35px; ;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+}
+
+.tex2{
+    margin: 20px;
+    font-size: 25px ;
+    color: rgb(255, 255, 255);
+    font-family: 'Times New Roman';
+}
